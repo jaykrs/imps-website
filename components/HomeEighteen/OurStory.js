@@ -17,7 +17,7 @@ class OurStory extends Component {
             <React.Fragment>
                 <div className="story-area ptb-100">
                     <div className="container">
-                        <div className="story-content">
+                        {/* <div className="story-content">
                             <ReactWOW animation='fadeInUp' delay='0.1s'>
                                 <div className="section-title">
                                     <span>Our Story</span>
@@ -33,7 +33,7 @@ class OurStory extends Component {
                                     </Link>
                                 </div>
                             </ReactWOW>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 

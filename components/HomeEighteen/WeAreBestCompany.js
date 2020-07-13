@@ -9,14 +9,14 @@ class WeAreBestCompany extends Component {
                 <div className="container">
                     <div className="call-to-action-content">
                         <ReactWOW animation='fadeInUp' delay='0.1s'>
-                            <div className="section-title">
+                            {/* <div className="section-title">
                                 <span>We are a Best Company</span>
                                 <h2>Ready to <b>Work</b> With Us</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                 <Link href="#contact">
                                     <a className="btn btn-primary">Contact Us</a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </ReactWOW>
                     </div>
                 </div>

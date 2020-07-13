@@ -6,45 +6,45 @@ class Contact extends Component {
             <section id="contact" className="contact-area ptb-100 bg-image">
                 <div className="container">
                     <div className="section-title">
-                        <span>Get In Touch</span>
-                        <h2>Let's <b>Contact</b> Us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span>Get In Touch </span>
+                        <h2>Let's <b>Create</b> Some Influence</h2>
+                        <p>We look forward to hearing from you. </p>
                     </div>
 
                     <div className="row">
                         <div className="col-lg-3 col-md-6">
                             <div className="contact-info">
                                 <i className="icofont-google-map"></i> 
-                                <p>Exercisplan 4, 111 49 Stockholm, Sweden</p>
+                                <p>10 Anson Road, 10-11, International Plaza, Singapore</p>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-6">
                             <div className="contact-info">
                                 <i className="icofont-envelope"></i> 
-                                <p>infoziran@gmail.com</p>
-                                <p>helloziran@gmail.com</p>
+                                <p>sales@cinfluencer.com</p>
+                                
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-6">
                             <div className="contact-info">
                                 <i className="icofont-phone"></i> 
-                                <p>(+124) 412-1243465</p>
-                                <p>(+124) 412-2445515</p>
+                                <p>+65 97240460</p>
+                                <p>+91 98109 02095 (WA)</p>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-6">
                             <div className="contact-info">
                                 <i className="icofont-fax"></i> 
-                                <p>617-241-60055</p>
-                                <p>817-345-56756</p>
+                                <p>A 12/3 Naraina Industrial Area 1, New Delhi, India</p>
+                                
                             </div>
                         </div>
                     </div>
                  
-                    <div className="contact-form">
+                    {/* <div className="contact-form">
                         <form id="contactForm">
                             <div className="row">
                                 <div className="col-md-6">
@@ -82,7 +82,7 @@ class Contact extends Component {
                                 </div>
                             </div>
                         </form>
-                    </div>
+                    </div> */}
                 </div>
             </section>
         );

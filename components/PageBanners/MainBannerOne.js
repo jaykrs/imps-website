@@ -19,15 +19,15 @@ class MainBannerOne extends Component {
                         <div className="d-table-cell">
                             <div className="container">
                                 <div className="main-banner-content text-center">
-                                    <span>We Are Creative</span>
-                                    <h1>The Best <b>Digital</b> Experience</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <span>WE MEAN BUSINESS</span>
+                                    <h1>The largest <b>C-Suite KOL</b> Network</h1>
+                                    <p>Find Influential KOLs from your Industry Segment and drive your business straightaway.</p>
 
                                     <div className="btn-box">
                                         <Link href="#contact">
                                             <a className="btn btn-primary">Get Started</a>
                                         </Link>
-                                        
+{/*                                         
                                         <span>or</span>
 
                                         <Link href="#play-video">
@@ -37,7 +37,7 @@ class MainBannerOne extends Component {
                                             > 
                                                 <i className="icofont-ui-play"></i> Watch Video
                                             </a>
-                                        </Link>
+                                        </Link> */}
                                     </div>
                                 </div>
                             </div>
@@ -60,12 +60,12 @@ class MainBannerOne extends Component {
                 </div>
 
                 {/* If you want to change the video need to update below videoID */}
-                <ModalVideo 
+                {/* <ModalVideo 
                     channel='youtube' 
                     isOpen={this.state.isOpen} 
                     videoId='_ysd-zHamjk' 
                     onClose={() => this.setState({isOpen: false})} 
-                />
+                /> */}
             </React.Fragment>
         );
     }

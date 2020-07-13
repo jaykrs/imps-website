@@ -9,27 +9,28 @@ class WhoWeAre extends Component {
                     <div className="row">
                         <div className="col-lg-5 col-md-12">
                             <div className="section-title">
-                                <span>Who We Are</span>
-                                <h2>We stand out of the <b>Ziran</b></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <span>Who We Are NOT</span>
+                                <h2>Not Your Regular Influencer Marketing Platform  </h2>
+                                <h3> We are not the ones who will distribute your readymade content. </h3>
 
                                 <Link href="#portfolio">
-                                    <a className="btn btn-primary">Our Work</a>
+                                    <a className="btn btn-primary">Get In Touch
+</a>
                                 </Link>
                             </div>
                         </div>
 
                         <div className="col-lg-7 col-md-12">
                             <div className="content">
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                <p>We strongly believe that Influencer Marketing is never ‘Done’ because it is a continuous process. Our KOLs will not only drive business impact but also help you cut through the usual content clutter. We start at an early stage in your marketing program with you, to get you the desired business objectives.</p>
 
                                 <ul>
-                                    <li>We are Professional</li>
-                                    <li>We are Passionate</li>
-                                    <li>We are Creative</li>
-                                    <li>We are Designer</li>
-                                    <li>We are Unique</li>
-                                    <li>We are Support</li>
+                                    <li>We are Opinion Makers </li>
+                                    <li>We are passionate </li>
+                                    <li>We are Business Catalysts</li>
+                                    <li>We are Nimble </li>
+                                    <li>We Challenge Status Quo</li>
+                                    <li>We Improvise</li>
                                 </ul>
                             </div>
                         </div>

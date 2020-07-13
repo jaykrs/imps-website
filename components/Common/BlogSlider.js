@@ -45,18 +45,18 @@ class BlogSlider extends Component {
         return (
             <section id="blog" className="blog-area ptb-100 bg-image">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>Info Update!</span>
                         <h2>Our Latest <b>News</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
                     {this.state.display ? <OwlCarousel 
                     className="blog-slides owl-carousel owl-theme"
                         {...options}
                     >
                         <div className="single-blog-post">
-                            <div className="blog-image">
+                            {/* <div className="blog-image">
                                 <Link href="#">
                                     <a target="_blank">
                                         <img src={require("../../images/blog/blog1.jpg")} alt="image" />
@@ -68,9 +68,9 @@ class BlogSlider extends Component {
                                         <a>Technology</a>
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="blog-post-content">
+                            {/* <div className="blog-post-content">
                                 <span className="date">25 Feb, 2020</span>
                                 <h3>
                                     <Link href="#">
@@ -85,11 +85,11 @@ class BlogSlider extends Component {
                                         <i className="icofont-double-right"></i>
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="single-blog-post">
-                            <div className="blog-image">
+                            {/* <div className="blog-image">
                                 <Link href="#">
                                     <a target="_blank">
                                         <img src={require("../../images/blog/blog2.jpg")} alt="image" />
@@ -101,9 +101,9 @@ class BlogSlider extends Component {
                                         <a>Agency</a>
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="blog-post-content">
+                            {/* <div className="blog-post-content">
                                 <span className="date">27 Feb, 2020</span>
                                 <h3>
                                     <Link href="#">
@@ -118,11 +118,11 @@ class BlogSlider extends Component {
                                         <i className="icofont-double-right"></i>
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="single-blog-post">
-                            <div className="blog-image">
+                            {/* <div className="blog-image">
                                 <Link href="#">
                                     <a target="_blank">
                                         <img src={require("../../images/blog/blog3.jpg")} alt="image" />
@@ -134,9 +134,9 @@ class BlogSlider extends Component {
                                         <a>IT</a>
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="blog-post-content">
+                            {/* <div className="blog-post-content">
                                 <span className="date">28 Feb, 2020</span>
                                 <h3>
                                     <Link href="#">
@@ -151,11 +151,11 @@ class BlogSlider extends Component {
                                         <i className="icofont-double-right"></i>
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="single-blog-post">
-                            <div className="blog-image">
+                            {/* <div className="blog-image">
                                 <Link href="#">
                                     <a target="_blank">
                                         <img src={require("../../images/blog/blog4.jpg")} alt="image" />
@@ -167,9 +167,9 @@ class BlogSlider extends Component {
                                         <a>Creative</a>
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="blog-post-content">
+                            {/* <div className="blog-post-content">
                                 <span className="date">29 Feb, 2020</span>
                                 <h3>
                                     <Link href="#">
@@ -184,7 +184,7 @@ class BlogSlider extends Component {
                                         <i className="icofont-double-right"></i>
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
                     </OwlCarousel> : ''}
                 </div>

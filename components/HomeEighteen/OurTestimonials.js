@@ -46,11 +46,11 @@ class OurTestimonials extends Component {
             <section id="testimonials" className="testimonial-area ptb-100 bg-image">
                 <div className="container">
                     <ReactWOW animation='fadeInUp' delay='0.1s'>
-                        <div className="section-title">
+                        {/* <div className="section-title">
                             <span>What people say about us</span>
                             <h2>Our <b>Testimonial</b></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div>
+                        </div> */}
                     </ReactWOW>
                     
                     {this.state.display ? <OwlCarousel 

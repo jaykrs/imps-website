@@ -6,9 +6,10 @@ class OurFeaturesTwo extends Component {
             <section className="features-area ptb-100">
                 <div className="container">
                     <div className="section-title">
-                        <span>Our Features</span>
-                        <h2>We Always Try To <b>Understand</b> Users Expectation</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span>PLATFORMS USED</span>
+                        <h2>Driving Influence Through <b>Leading</b> Social Channels</h2>
+                        <p>Find KOL across their favorite social platforms and engage their followers to drive real
+                                 business impact</p>
                     </div>
 
                     <div className="row">

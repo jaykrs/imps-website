@@ -23,11 +23,11 @@ class WhyWeDifferent extends Component {
         return (
             <section id="why-we-different" className="why-we-different ptb-100 bg-image">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>Highly Creative Solutions</span>
                         <h2>Why we are <b>Different</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
                     <div className="row">
                         <div className="col-lg-12 col-md-12">

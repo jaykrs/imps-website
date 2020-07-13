@@ -43,24 +43,24 @@ class OurPortfolio extends Component {
             <section id="portfolio" className="portfolio-area ptb-100 bg-image">
                 <div className="container">
                     <div className="section-title">
-                        <span>Our Latest Work</span>
-                        <h2>Our <b>Portfolio</b></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span>OUR LEADING KEY OPINION LEADERS</span>
+                        <h2>Influencers In <b>Action</b></h2>
+                        <p>We cover a large number of industry segments to help you find the most relevant thought leader from our universe of Global, Regional & Local experts.</p>
                     </div>
 
                     {/* Shorting Menu */}
-                    <div className="shorting-menu">
+                    {/* <div className="shorting-menu">
                         <button className="filter" data-filter="all">All</button>
                         <button className="filter" data-filter=".design">Design</button>
                         <button className="filter" data-filter=".seo">SEO</button>
                         <button className="filter" data-filter=".branding">Branding</button>
                         <button className="filter" data-filter=".print">Print</button>
                         <button className="filter" data-filter=".video">Video</button>
-                    </div>
+                    </div> */}
            
                     <div className="shorting">
                         <div className="row" id="mix-wrapper">
-                            <div className="col-lg-4 col-sm-6 mix design mix-target">
+                            {/* <div className="col-lg-4 col-sm-6 mix design mix-target">
                                 <div className="single-work">
                                     <Link href="#">
                                         <a 
@@ -78,9 +78,9 @@ class OurPortfolio extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-4 col-sm-6 mix print seo mix-target">
+                            {/* <div className="col-lg-4 col-sm-6 mix print seo mix-target">
                                 <div className="single-work">
                                     <Link href="#">
                                         <a 
@@ -98,9 +98,9 @@ class OurPortfolio extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-4 col-sm-6 mix video branding mix-target">
+                            {/* <div className="col-lg-4 col-sm-6 mix video branding mix-target">
                                 <div className="single-work">
                                     <Link href="#">
                                         <a 
@@ -118,9 +118,9 @@ class OurPortfolio extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-4 col-sm-6 mix design print mix-target">
+                            {/* <div className="col-lg-4 col-sm-6 mix design print mix-target">
                                 <div className="single-work">
                                     <Link href="#">
                                         <a 
@@ -138,9 +138,9 @@ class OurPortfolio extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-4 col-sm-6 mix branding video mix-target">
+                            {/* <div className="col-lg-4 col-sm-6 mix branding video mix-target">
                                 <div className="single-work">
                                     <Link href="#">
                                         <a 
@@ -158,9 +158,9 @@ class OurPortfolio extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-4 col-sm-6 mix seo design mix-target">
+                            {/* <div className="col-lg-4 col-sm-6 mix seo design mix-target">
                                 <div className="single-work">
                                     <Link href="#">
                                         <a 
@@ -178,7 +178,7 @@ class OurPortfolio extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

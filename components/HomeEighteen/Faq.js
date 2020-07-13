@@ -14,11 +14,11 @@ class Faq extends Component {
             <section id="faq" className="faq-area ptb-100 overx-hidden">
                 <div className="container">
                     <ReactWOW animation='fadeInUp' delay='0.1s'>
-                        <div className="section-title">
+                        {/* <div className="section-title">
                             <span>FAQ</span>
                             <h2>Frequently Asked <b>Questions</b></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div>
+                        </div> */}
                     </ReactWOW>
 
                     <div className="row">

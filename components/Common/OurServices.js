@@ -5,14 +5,14 @@ class OurServices extends Component {
         return (
             <section id="services" className="services-area ptb-100">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>What We Do</span>
                         <h2>Our <b>Services</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
                     <div className="row">
-                        <div className="col-lg-4 col-md-6">
+                        {/* <div className="col-lg-4 col-md-6">
                             <div className="single-services">
                                 <div className="services-image">
                                     <img src={require("../../images/services/service1.jpg")} alt="image" />
@@ -27,10 +27,10 @@ class OurServices extends Component {
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-lg-4 col-md-6">
-                            <div className="single-services">
+                            {/* <div className="single-services">
                                 <div className="services-image">
                                     <img src={require("../../images/services/service2.jpg")} alt="image" />
 
@@ -43,11 +43,11 @@ class OurServices extends Component {
                                     <h3>Branding Design</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-md-6">
-                            <div className="single-services">
+                            {/* <div className="single-services">
                                 <div className="services-image">
                                     <img src={require("../../images/services/service3.jpg")} alt="image" />
 
@@ -60,11 +60,11 @@ class OurServices extends Component {
                                     <h3>Digital Marketing</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-md-6">
-                            <div className="single-services">
+                            {/* <div className="single-services">
                                 <div className="services-image">
                                     <img src={require("../../images/services/service4.jpg")} alt="image" />
 
@@ -77,11 +77,11 @@ class OurServices extends Component {
                                     <h3>App Development</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-md-6">
-                            <div className="single-services">
+                            {/* <div className="single-services">
                                 <div className="services-image">
                                     <img src={require("../../images/services/service5.jpg")} alt="image" />
 
@@ -94,11 +94,11 @@ class OurServices extends Component {
                                     <h3>Easy Customization</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="col-lg-4 col-md-6">
-                            <div className="single-services">
+                            {/* <div className="single-services">
                                 <div className="services-image">
                                     <img src={require("../../images/services/service6.jpg")} alt="image" />
 
@@ -111,7 +111,7 @@ class OurServices extends Component {
                                     <h3>Fully Responsive</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

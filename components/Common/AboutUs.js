@@ -4,7 +4,7 @@ class AboutUs extends Component {
     render() {
         return (
             <section id="about" className="about-area ptb-100 bg-image">
-                <div className="container">
+                {/* <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="row about-image">
@@ -52,7 +52,7 @@ class AboutUs extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </section>
         );
     }

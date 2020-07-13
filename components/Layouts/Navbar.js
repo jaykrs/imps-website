@@ -89,7 +89,7 @@ class Navbar extends Component {
                                         Home
                                     </AnchorLink>
                                 </li>
-                                <li className="nav-item">
+                                {/* <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
                                         offset={() => -1} 
@@ -98,8 +98,8 @@ class Navbar extends Component {
                                     >
                                         About
                                     </AnchorLink>
-                                </li>
-                                <li className="nav-item">
+                                </li> */}
+                                {/* <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
                                         offset={() => -1} 
@@ -108,8 +108,8 @@ class Navbar extends Component {
                                     >
                                         Services
                                     </AnchorLink>
-                                </li>
-                                <li className="nav-item">
+                                </li> */}
+                                {/* <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
                                         offset={() => -1} 
@@ -118,8 +118,8 @@ class Navbar extends Component {
                                     >
                                         Portfolio
                                     </AnchorLink>
-                                </li>
-                                <li className="nav-item">
+                                </li> */}
+                                {/* <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
                                         offset={() => -1} 
@@ -128,7 +128,7 @@ class Navbar extends Component {
                                     >
                                         Team
                                     </AnchorLink>
-                                </li>
+                                </li> */}
                                 <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
@@ -139,7 +139,7 @@ class Navbar extends Component {
                                         Pricing
                                     </AnchorLink>
                                 </li>
-                                <li className="nav-item">
+                                {/* <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
                                         offset={() => -1} 
@@ -148,8 +148,8 @@ class Navbar extends Component {
                                     >
                                         Testimonials
                                     </AnchorLink>
-                                </li>
-                                <li className="nav-item">
+                                </li> */}
+                                {/* <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
                                         offset={() => -1} 
@@ -158,7 +158,7 @@ class Navbar extends Component {
                                     >
                                         Blog
                                     </AnchorLink>
-                                </li>
+                                </li> */}
                                 <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 

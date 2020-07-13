@@ -47,11 +47,11 @@ class BlogSlider extends Component {
             <section id="blog" className="blog-area ptb-100 bg-image">
                 <div className="container">
                     <ReactWOW animation='fadeInUp' delay='0.1s'>
-                        <div className="section-title">
+                        {/* <div className="section-title">
                             <span>Info Update!</span>
                             <h2>Our Latest <b>News</b></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div>
+                        </div> */}
                     </ReactWOW>
 
                     {this.state.display ? <OwlCarousel 

@@ -10,10 +10,10 @@ class CtaAreaTwo extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-8 col-md-8">
                             <ReactWOW animation='fadeInLeft' delay='0.1s'>
-                                <div className="cta-content">
+                                {/* <div className="cta-content">
                                     <h3>Create lovely & smart <b>websites</b> faster!</h3>
                                     <span>Start to build your awesome websites</span>
-                                </div>
+                                </div> */}
                             </ReactWOW>
                         </div>
 

@@ -12,13 +12,13 @@ class Faq extends Component {
         return (
             <section id="faq" className="faq-area ptb-100">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>FAQ</span>
                         <h2>Frequently Asked <b>Questions</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
-                    <div className="row">
+                    {/* <div className="row">
                         <div className="col-lg-6 col-md-12">
                             <div className="faq">
                                 <Accordion>
@@ -95,7 +95,7 @@ class Faq extends Component {
                                 <img src={require("../../images/faq-bg.jpg")} alt="img" />
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </section>
         );

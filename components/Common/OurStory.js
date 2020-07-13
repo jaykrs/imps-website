@@ -16,7 +16,7 @@ class OurStory extends Component {
             <React.Fragment>
                 <div className="story-area ptb-100">
                     <div className="container">
-                        <div className="story-content">
+                        {/* <div className="story-content">
                             <div className="section-title">
                                 <span>Our Story</span>
                                 <h2>We are always with you to <b>make</b> your project Success</h2>
@@ -30,7 +30,7 @@ class OurStory extends Component {
                                     </a>
                                 </Link>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 

@@ -7,17 +7,17 @@ class OurServices extends Component {
             <section id="services" className="services-area ptb-100">
                 <div className="container">
                     <ReactWOW animation='fadeInLeft' delay='0.1s'>
-                        <div className="section-title">
+                        {/* <div className="section-title">
                             <span>What We Do</span>
                             <h2>Our <b>Services</b></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div>
+                        </div> */}
                     </ReactWOW>
 
                     <div className="row">
                         <div className="col-lg-4 col-md-6">
                             <ReactWOW animation='fadeInUp' delay='0.1s'>
-                                <div className="single-services">
+                                {/* <div className="single-services">
                                     <div className="services-image">
                                         <img src={require("../../images/services/service1.jpg")} alt="image" />
 
@@ -30,7 +30,7 @@ class OurServices extends Component {
                                         <h3>Web Design</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                                     </div>
-                                </div>
+                                </div> */}
                             </ReactWOW>
                         </div>
 

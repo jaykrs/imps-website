@@ -19,7 +19,7 @@ class MainBannerEight extends Component {
                         <div className="d-table-cell">
                             <div className="container">
                                 <div className="main-banner-content text-center">
-                                    <span>We Are Creative</span>
+                                    <span>WE MEAN BUSINESS</span>
                                     <h1>The Best <b>Digital</b> Experience</h1>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 

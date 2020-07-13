@@ -5,7 +5,7 @@ class SkillsArea extends Component {
     render() {
         return (
             <section id="skill" className="skill-area">
-                <div className="container-fluid p-0">
+                {/* <div className="container-fluid p-0">
                     <div className="row m-0">
                         <div className="col-lg-6 col-md-12 p-0">
                             <div className="skill-content ptb-100">
@@ -70,7 +70,7 @@ class SkillsArea extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </section>
         );
     }

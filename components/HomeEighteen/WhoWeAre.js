@@ -11,7 +11,7 @@ class WhoWeAre extends Component {
                         <div className="col-lg-5 col-md-12">
                             <ReactWOW animation='fadeInLeft' delay='0.2s'>
                                 <div className="section-title">
-                                    <span>Who We Are</span>
+                                    <span>Who We Are NOT</span>
                                     <h2>We stand out of the <b>Ziran</b></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 

@@ -24,9 +24,11 @@ class Pricing extends Component {
             <section id="pricing" className="pricing-area ptb-100">
                 <div className="container">
                     <div className="section-title">
-                        <span>Latest and Best</span>
+                        <span>FITTING THE BILL</span>
                         <h2>Our <b>Pricing</b></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Created in the most reasonable way, our pricing tiers are geared
+towards achieving highest Return on Investment
+.</p>
                     </div>
 
                     <div className="row">
@@ -40,9 +42,9 @@ class Pricing extends Component {
                                     >
                                         Monthly
                                     </li>
-                                    <li onClick={(e) => this.openTabSection(e, 'yearly')}> 
+                                    {/* <li onClick={(e) => this.openTabSection(e, 'yearly')}> 
                                         Yearly
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         
@@ -52,22 +54,23 @@ class Pricing extends Component {
                                         <div className="col-lg-4 col-md-6">
                                             <div className="pricing-table">
                                                 <div className="pricing-header">
-                                                    Basic
+                                                Per Content Piece 
+
                                                 </div>
 
                                                 <div className="price">
                                                     <sup>$</sup>
-                                                    145
+                                                    199
                                                     <span>/ Monthly</span>
                                                 </div>
 
                                                 <ul className="pricing-features">
-                                                    <li><b>10 GB</b> Hosting</li>
-                                                    <li>2 Unique Users</li>
-                                                    <li><b>12 GB</b> Capacity</li>
-                                                    <li>Weekly Backups</li>
-                                                    <li><b>15 Domain</b> Names</li>
-                                                    <li>Support <b>24/7</b></li>
+                                                    {/* <li><b>10 GB</b> Hosting</li> */}
+                                                    <li>LinkedIn or Twitter 1 Iteration Dashboard </li>
+                                                    {/* <li><b>12 GB</b> Capacity</li> */}
+                                                    {/* <li>Weekly Backups</li> */}
+                                                    {/* <li><b>15 Domain</b> Names</li> */}
+                                                    {/* <li>Support <b>24/7</b></li> */}
                                                 </ul>
 
                                                 <Link href="#">
@@ -79,22 +82,21 @@ class Pricing extends Component {
                                         <div className="col-lg-4 col-md-6">
                                             <div className="pricing-table">
                                                 <div className="pricing-header">
-                                                    Standard
-                                                </div>
+                                                3 Content Pieces (25% Discount) </div>
 
                                                 <div className="price">
                                                     <sup>$</sup> 
-                                                    250 
+                                                    399 
                                                     <span>/ Monthly</span>
                                                 </div>
 
                                                 <ul className="pricing-features">
-                                                    <li><b>10 GB</b> Hosting</li>
-                                                    <li>2 Unique Users</li>
-                                                    <li><b>12 GB</b> Capacity</li>
-                                                    <li>Weekly Backups</li>
-                                                    <li><b>15 Domain</b> Names</li>
-                                                    <li>Support <b>24/7</b></li>
+                                                    {/* <li><b>10 GB</b> Hosting</li> */}
+                                                    <li>LinkedIn and/or Twitter Up to 5 Iterations Curation Support Dashboard </li>
+                                                    {/* <li><b>12 GB</b> Capacity</li> */}
+                                                    {/* <li>Weekly Backups</li> */}
+                                                    {/* <li><b>15 Domain</b> Names</li> */}
+                                                    {/* <li>Support <b>24/7</b></li> */}
                                                 </ul>
 
                                                 <Link href="#">
@@ -106,22 +108,22 @@ class Pricing extends Component {
                                         <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
                                             <div className="pricing-table">
                                                 <div className="pricing-header">
-                                                    Premium
+                                                Custom 
                                                 </div>
 
-                                                <div className="price">
+                                                {/* <div className="price">
                                                     <sup>$</sup>
                                                     325
                                                     <span>/ Monthly</span>
-                                                </div>
+                                                </div> */}
 
                                                 <ul className="pricing-features">
-                                                    <li><b>10 GB</b> Hosting</li>
-                                                    <li>2 Unique Users</li>
-                                                    <li><b>12 GB</b> Capacity</li>
+                                                    {/* <li><b>10 GB</b> Hosting</li> */}
+                                                    <li>Contact Us for a Custom Requirement </li>
+                                                    {/* <li><b>12 GB</b> Capacity</li>
                                                     <li>Weekly Backups</li>
                                                     <li><b>15 Domain</b> Names</li>
-                                                    <li>Support <b>24/7</b></li>
+                                                    <li>Support <b>24/7</b></li> */}
                                                 </ul>
 
                                                 <Link href="#">

@@ -45,17 +45,17 @@ class Team extends Component {
         return (
             <section id="team" className="team-area ptb-100 bg-image">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>Meet Our expert</span>
                         <h2>Our Creative <b>Team</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
                     {this.state.display ? <OwlCarousel 
                     className="team-slides owl-carousel owl-theme"
                         {...options}
                     >
-                        <div className="team-box">
+                        {/* <div className="team-box">
                             <img src={require("../../images/team/team1.jpg")} alt="team-image" />
 
                             <div className="box-content">
@@ -87,9 +87,9 @@ class Team extends Component {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="team-box">
+                        {/* <div className="team-box">
                             <img src={require("../../images/team/team2.jpg")} alt="team-image" />
                             
                             <div className="box-content">
@@ -121,9 +121,9 @@ class Team extends Component {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="team-box">
+                        {/* <div className="team-box">
                             <img src={require("../../images/team/team3.jpg")} alt="team-image" />
                             
                             <div className="box-content">
@@ -155,9 +155,9 @@ class Team extends Component {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
-                        <div className="team-box">
+                        {/* <div className="team-box">
                             <img src={require("../../images/team/team4.jpg")} alt="team-image" />
                             
                             <div className="box-content">
@@ -189,7 +189,7 @@ class Team extends Component {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </OwlCarousel> : ''}
                 </div>
             </section>

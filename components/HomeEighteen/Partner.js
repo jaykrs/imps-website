@@ -48,11 +48,11 @@ class Partner extends Component {
         return (
             <section className="partner-area ptb-100">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>Trusted Client</span>
                         <h2>Our Happy <b>Partners</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
                     {this.state.display ? <OwlCarousel 
                     className="partner-slides owl-carousel owl-theme"

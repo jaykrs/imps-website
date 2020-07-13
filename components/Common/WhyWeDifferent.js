@@ -23,17 +23,17 @@ class WhyWeDifferent extends Component {
         return (
             <section id="why-we-different" className="why-we-different ptb-100 bg-image">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>Highly Creative Solutions</span>
                         <h2>Why we are <b>Different</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
 
                     <div className="row">
                         <div className="col-lg-12 col-md-12">
                             <div className="tab">
                                 {/* Tabs Nav */}
-                                <ul className="tabs">
+                                {/* <ul className="tabs">
                                     <li
                                         className="current"
                                         onClick={(e) => this.openTabSection(e, 'tab1')}
@@ -57,11 +57,11 @@ class WhyWeDifferent extends Component {
                                             Customer support
                                         </span>
                                     </li>
-                                </ul>
+                                </ul> */}
 
                                 <div className="tab_content">
                                     {/* Tabs Item 01 */}
-                                    <div id="tab1" className="tabs_item">
+                                    {/* <div id="tab1" className="tabs_item">
                                         <div className="row align-items-center">
                                             <div className="col-lg-6 col-md-12 why-we-different-content">
                                                 <div className="tabs_item_content">
@@ -91,10 +91,10 @@ class WhyWeDifferent extends Component {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
 
                                     {/* Tabs Item 02 */}
-                                    <div id="tab2" className="tabs_item">
+                                    {/* <div id="tab2" className="tabs_item">
                                         <div className="row align-items-center">
                                             <div className="col-lg-6 col-md-12 why-we-different-img">
                                                 <div className="tabs_item_img">
@@ -124,10 +124,10 @@ class WhyWeDifferent extends Component {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
 
                                     {/* Tabs Item 03 */}
-                                    <div id="tab3" className="tabs_item">
+                                    {/* <div id="tab3" className="tabs_item">
                                         <div className="row align-items-center">
                                             <div className="col-lg-6 col-md-12 why-we-different-content">
                                                 <div className="tabs_item_content">
@@ -157,10 +157,10 @@ class WhyWeDifferent extends Component {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
 
                                     {/* Tabs Item 04 */}
-                                    <div id="tab4" className="tabs_item">
+                                    {/* <div id="tab4" className="tabs_item">
                                         <div className="row align-items-center">
                                             <div className="col-lg-6 col-md-12 why-we-different-img">
                                                 <div className="tabs_item_img">
@@ -190,7 +190,7 @@ class WhyWeDifferent extends Component {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>

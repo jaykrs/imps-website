@@ -31,7 +31,7 @@ class Index extends Component {
                 <MainBannerOne />
                 <OurFeatures />
                 <AboutUs />
-                <CtaArea />
+                
                 <OurServices />
                 <WhoWeAre /> 
                 <SkillsArea />
@@ -45,7 +45,7 @@ class Index extends Component {
                 <WeAreBestCompany />
                 <Faq /> 
                 <BlogSlider /> 
-                <CtaAreaTwo /> 
+                
                 <Partner /> 
                 <Subscribe />
                 <Contact />

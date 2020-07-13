@@ -44,17 +44,17 @@ class OurTestimonials extends Component {
         return (
             <section id="testimonials" className="testimonial-area ptb-100 bg-image">
                 <div className="container">
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <span>What people say about us</span>
                         <h2>Our <b>Testimonial</b></h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
+                    </div> */}
                     
                     {this.state.display ? <OwlCarousel 
                         className="testimonial-slides owl-carousel owl-theme"
                         {...options}
                     > 
-                        <div className="testimonial-item">
+                        {/* <div className="testimonial-item">
                             <div className="client-image">
                                 <img src={require("../../images/author/author1.jpg")} alt="image" />
                             </div>
@@ -69,9 +69,9 @@ class OurTestimonials extends Component {
                                     <span>Web Developer</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
             
-                        <div className="testimonial-item">
+                        {/* <div className="testimonial-item">
                             <div className="client-image">
                                 <img src={require("../../images/author/author2.jpg")} alt="image" />
                             </div>
@@ -86,9 +86,9 @@ class OurTestimonials extends Component {
                                     <span>Product Manager</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
             
-                        <div className="testimonial-item">
+                        {/* <div className="testimonial-item">
                             <div className="client-image">
                                 <img src={require("../../images/author/author3.jpg")} alt="image" />
                             </div>
@@ -103,9 +103,9 @@ class OurTestimonials extends Component {
                                     <span>Web Designer</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                 
-                        <div className="testimonial-item">
+                        {/* <div className="testimonial-item">
                             <div className="client-image">
                                 <img src={require("../../images/author/author4.jpg")} alt="image" />
                             </div>
@@ -120,7 +120,7 @@ class OurTestimonials extends Component {
                                     <span>Product Manager</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </OwlCarousel> : ''}
                 </div>
             </section>
