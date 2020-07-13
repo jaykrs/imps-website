@@ -30,24 +30,24 @@ class Index extends Component {
                 <Navbar /> 
                 <MainBannerOne />
                 <OurFeatures />
-                <AboutUs />
+                {/* <AboutUs /> */}
                 
-                <OurServices />
+                {/* <OurServices /> */}
                 <WhoWeAre /> 
-                <SkillsArea />
-                <WhyWeDifferent />
+                {/* <SkillsArea /> */}
+                {/* <WhyWeDifferent /> */}
                 <OurPortfolio />
                 <FunFacts /> 
-                <Team /> 
-                <OurStory /> 
+                {/* <Team />  */}
+                {/* <OurStory />  */}
                 <Pricing /> 
-                <OurTestimonials />
-                <WeAreBestCompany />
-                <Faq /> 
-                <BlogSlider /> 
+                {/* <OurTestimonials /> */}
+                {/* <WeAreBestCompany /> */}
+                {/* <Faq />  */}
+                {/* <BlogSlider />  */}
                 
-                <Partner /> 
-                <Subscribe />
+                {/* <Partner />  */}
+                {/* <Subscribe /> */}
                 <Contact />
                 <Footer />
             </React.Fragment>
