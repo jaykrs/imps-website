@@ -3120,13 +3120,16 @@ Contact CSS
 .contact-area {
   position: relative;
   z-index: 1;
+  
 }
 
 .contact-area.bg-image {
-  background-image: url(../../images/bg.jpg);
+  background-image: url(../../images/bg23.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  /* min-width: 100%;
+  min-height: 10s0%; */
 }
 
 #map {

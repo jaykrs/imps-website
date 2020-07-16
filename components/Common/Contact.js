@@ -6,9 +6,11 @@ class Contact extends Component {
             <section id="contact" className="contact-area ptb-100 bg-image">
                 <div className="container">
                     <div className="section-title">
+                        
                         <span>Get In Touch </span>
                         <h2>Let's <b>Create</b> Some Influence</h2>
-                        <p>We look forward to hearing from you. </p>
+                        <p >We look forward to hearing from you. </p>
+                      
                     </div>
 
                     <div className="row">

@@ -11,13 +11,12 @@ class WhoWeAre extends Component {
                             <div className="section-title">
                                 <span>Who We Are NOT</span>
                                 <h2>Not Your Regular Influencer Marketing Platform  </h2>
-                                <h3> We are not the ones who will distribute your readymade content. </h3>
-
-                                <Link href="#portfolio">
-                                    <a className="btn btn-primary">Get In Touch
-</a>
-                                </Link>
+                                <p1> We are not the ones who will distribute your readymade content.</p1>
                             </div>
+                                <Link href="#portfolio">
+                                    <a className="btn btn-primary">Get In Touch</a>
+                                </Link>
+                            
                         </div>
 
                         <div className="col-lg-7 col-md-12">

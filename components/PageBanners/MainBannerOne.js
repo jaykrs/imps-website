@@ -27,7 +27,7 @@ class MainBannerOne extends Component {
                                         <Link href="#contact">
                                             <a className="btn btn-primary">Get Started</a>
                                         </Link>
-{/*                                         
+                                        {/*                                         
                                         <span>or</span>
 
                                         <Link href="#play-video">
