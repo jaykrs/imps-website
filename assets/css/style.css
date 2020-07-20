@@ -91,7 +91,8 @@ p:last-child {
 }
 
 img {
-  max-width: 100%;
+  /* for logo size edit here */
+   max-width: 30%;
 }
 
 .mt-30 {
