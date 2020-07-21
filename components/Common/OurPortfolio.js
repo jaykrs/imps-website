@@ -40,12 +40,12 @@ class OurPortfolio extends Component {
     render() {
         const { photoIndex, isOpen } = this.state;
         return (
-            <section id="portfolio" className="portfolio-area ptb-100 bg-image">
+            <section id="portfolio" className="portfolio-area main-banner-port ptb-100 bg-image">
                 <div className="container">
                     <div className="section-title">
                         <span>OUR LEADING KEY OPINION LEADERS</span>
                         <h2>Influencers In <b>Action</b></h2>
-                        <p>We cover a large number of industry segments to help you find the most relevant thought leader from our universe of Global, Regional & Local experts.</p>
+                        <p className="text-light">We cover a large number of industry segments to help you find the most relevant thought leader from our universe of Global, Regional & Local experts.</p>
                     </div>
 
                     {/* Shorting Menu */}

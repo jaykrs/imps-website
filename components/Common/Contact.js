@@ -9,7 +9,7 @@ class Contact extends Component {
                         
                         <span>Get In Touch </span>
                         <h2>Let's <b>Create</b> Some Influence</h2>
-                        <p >We look forward to hearing from you. </p>
+                        <p className="text-light">We look forward to hearing from you. </p>
                       
                     </div>
 

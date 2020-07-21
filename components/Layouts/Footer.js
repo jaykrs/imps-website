@@ -10,7 +10,7 @@ class Footer extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-7">
                             <p>
-                                <i className="icofont-copyright"></i>{currentYear} Ziran - All Rights Reserved by <i className="icofont-heart"></i> <Link href="https://envytheme.com"><a target="_blank">EnvyTheme</a></Link>
+                                <i className="icofont-copyright"></i>{currentYear} CInfluencer - All Rights Reserved by <i className="icofont-heart"></i> <Link href="https://envytheme.com"><a target="_blank">EnvyTheme</a></Link>
                             </p>
                         </div>
 

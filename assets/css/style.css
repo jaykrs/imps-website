@@ -518,6 +518,25 @@ Main Banner CSS
   content: '';
 }
 
+.main-banner-port {
+  position: relative;
+  z-index: 1;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.main-banner-port::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(13, 15, 20, 0.75);
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  content: '';
+}
+
 .jarallax {
   background-attachment: fixed;
 }
@@ -1844,7 +1863,7 @@ Portfolio CSS
 }
 
 .portfolio-area.bg-image {
-  background-image: url(../../images/bg.jpg);
+  background-image: url(../../images/bg231.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
