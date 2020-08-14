@@ -59,8 +59,8 @@ class Navbar extends Component {
                     <div className="container">
                         <Link href="/">
                             <a className="navbar-brand">
-                                <img src={require("../../images/logo.png")} alt="logo" />
-                                <img src={require('../../images/logo2.png')} alt="logo" />
+                                <img className="logo" src={require("../../images/logo.png")} alt="logo" />
+                                <img className="logo" src={require('../../images/logo2.png')} alt="logo" />
                             </a>
                         </Link>
 

@@ -10,37 +10,38 @@ class Footer extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-7">
                             <p>
-                                <i className="icofont-copyright"></i>{currentYear} CInfluencer - All Rights Reserved by <i className="icofont-heart"></i> <Link href="https://envytheme.com"><a target="_blank">EnvyTheme</a></Link>
+                                <>  </> <i className="" ></i>{currentYear} Copyright CINFLUENCER - A Platform from the house of CMS Asia
+ <i className=" "></i> <Link href=""><a target="_blank"></a></Link>
                             </p>
                         </div>
 
                         <div className="col-lg-6 col-md-5">
                             <ul>
-                                <li>
+                                {/* <li>
                                     <Link href="#">
                                         <a><i className="icofont-facebook"></i></a>
                                     </Link>
-                                </li>
-                                <li>
+                                </li> */}
+                                {/* <li>
                                     <Link href="#">
                                         <a><i className="icofont-twitter"></i></a>
                                     </Link>
-                                </li>
-                                <li>
+                                </li> */}
+                                {/* <li>
                                     <Link href="#">
                                         <a><i className="icofont-instagram"></i></a>
                                     </Link>
-                                </li>
+                                </li> */}
                                 <li>
-                                    <Link href="#">
-                                        <a><i className="icofont-linkedin"></i></a>
+                                    <Link href="#" >
+                                        <a target="_blank" href="https://www.linkedin.com/company/67114915"><i className="icofont-linkedin"></i></a>
                                     </Link>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <Link href="#">
                                         <a><i className="icofont-pinterest"></i></a>
                                     </Link>
-                                </li>
+                                </li> */}
                             </ul>
                         </div>
                     </div>

@@ -8,7 +8,7 @@ class MainBannerOne extends Component {
         isOpen: false,
     }
     openModal = () => {
-        this.setState({isOpen: true})
+        this.setState({ isOpen: true })
     }
 
     render() {
@@ -20,13 +20,13 @@ class MainBannerOne extends Component {
                             <div className="container">
                                 <div className="main-banner-content text-center">
                                     <span>WE MEAN BUSINESS</span>
-                                    <h1>The largest <b>C-Suite KOL</b> Network</h1>
-                                    <p>Find Influential KOLs from your Industry Segment and drive your business straightaway.</p>
+                                    <h1>The largest <b>Virtual CXO</b> Network</h1>
+                                    <p>Cinfluencers is an exclusive network of the Top 1% management professionals from world’s largest organisations & brands.</p>
 
                                     <div className="btn-box">
-                                        <Link href="#contact">
-                                            <a className="btn btn-primary">Get Started</a>
-                                        </Link>
+                                        
+                                            <a target="_blank" href="http://app.cinfluencers.com/" className="btn btn-primary">Get Started</a>
+                                        
                                         {/*                                         
                                         <span>or</span>
 
@@ -43,7 +43,7 @@ class MainBannerOne extends Component {
                             </div>
                         </div>
                     </div>
-    
+
                     {/* Shape Images */}
                     <div className="shape1">
                         <img src={require("../../images/shapes/shape1.png")} alt="shape1" />

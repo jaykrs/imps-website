@@ -9,35 +9,34 @@ class FunFacts extends Component {
                     <div className="row">
                         <div className="col-lg-5 col-md-12">
                             <div className="section-title">
-                                <span>Number Speaks</span>
-                                <h2>Collective Wisdom of Our  <b>KOLs</b></h2>
-                                <p>You are always in a great company when planning your next marketing campaign. </p>
+                                <span>Numbers Speaks</span>
+                                <h2>Collective Wisdom of the Top <b>1%</b></h2>
+                                <p>You are always in a great company of Global CXOs to plan your next business move. </p>
 
-                                <Link href="#">
+                                {/* <Link href="#">
                                     <a className="btn btn-primary">Get In Touch</a>
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
 
                         <div className="col-lg-7 col-md-12">
                             <div className="counter-wrap">
                                 <div className="single-counter">
-                                    <h2>50+</h2>
-                                    <h3>Business Thought Leaders </h3>
+                                    <h2>100+</h2>
+                                    <h3>Business Leaders</h3>
                                     <p>          Coming from varied industry backgrounds,our experts are there to help. </p>
                                 </div>
 
                                 <div className="single-counter">
-                                    <h2>1250+</h2>
-                                    <h3>Years of Collective Work Experience</h3>
-                                    <p>With work experience of 15+ years,our thought leaders are perfect catalysts of change</p>
+                                    <h2>1500+   </h2>
+                                    <h3>Years of Learning & Experience</h3>
+                                    <p>Leverage the vast experience of our CXO network for your business growth</p>
                                 </div>
 
                                 <div className="single-counter">
-                                    <h2>250+</h2>
-                                    <h3>Content Pieces Generated</h3>
-                                    <p>Content Pieces Generated
-          We are super proud to have curated some great thought pieces with our expert's help</p>
+                                    <h2>15+</h2>
+                                    <h3>C-Suite Titles Covered</h3>
+                                    <p>From CEO, COO, CMO to CHRO, CPRO, we have them all on our platform for you.</p>
                                 </div>
                             </div>
                         </div>

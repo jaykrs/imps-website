@@ -6,10 +6,10 @@ class OurFeatures extends Component {
             <section className="features-area ptb-100 bg-image">
                 <div className="container">
                     <div className="section-title">
-                        <span>PLATFORMS USED</span>
-                        <h2>Driving Influence Through <b>Leading</b> Social Channels</h2>
-                        <p>Find KOL across their favorite social platforms and engage their followers to drive real
-                                 business impact.</p>
+                        <span>World-Class Minds</span>
+                        <h2>Engage our CXOs to fuel your   <b>company</b> growth</h2>
+                        {/* <p>Find KOL across their favorite social platforms and engage their followers to drive real
+                                 business impact.</p> */}
                     </div>
 
                     <div className="row">
@@ -18,8 +18,8 @@ class OurFeatures extends Component {
                                 <div className="icon">
                                     <i className="icofont-edit"></i>
                                 </div>
-                                <h3>LinkedIn </h3>
-                                <p>Create engaging conversations in the most vibrant professional community & network.</p>
+                                <h3>Strategic Guidance </h3>
+                                <p>Our CXOs are here to guide you to face new business challenges.</p>
                             </div>
                         </div>
 
@@ -28,8 +28,8 @@ class OurFeatures extends Component {
                                 <div className="icon">
                                     <i className="icofont-upload-alt"></i>
                                 </div>
-                                <h3>Twitter</h3>
-                                <p>Build news-worthy content with the help of our KOLs to get that required share of voice with authority. </p>
+                                <h3>Action, not Words</h3>
+                                <p>Execution Supervision by our experts ensures that you meet defined objectives.</p>
                             </div>
                         </div>
 
@@ -38,8 +38,8 @@ class OurFeatures extends Component {
                                 <div className="icon">
                                     <i className="icofont-pie-chart"></i>
                                 </div>
-                                <h3>Personal Blog </h3>
-                                <p>Drive thought leadership through long format content through personal blogging platforms.</p>
+                                <h3>Influence</h3>
+                                <p>Use thought leadership of our experts to build your share of impact.</p>
                             </div>
                         </div>
                     </div>

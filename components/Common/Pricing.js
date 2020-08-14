@@ -25,10 +25,8 @@ class Pricing extends Component {
                 <div className="container">
                     <div className="section-title">
                         <span>FITTING THE BILL</span>
-                        <h2>Our <b>Pricing</b></h2>
-                        <p>Created in the most reasonable way, our pricing tiers are geared
-towards achieving highest Return on Investment
-.</p>
+                        <h2>Our <b>Engagement Model</b></h2>
+                        <p>Starting from $50 an hour, our pricing tiers are geared towards highest RoI.</p>
                     </div>
 
                     <div className="row">
@@ -36,12 +34,12 @@ towards achieving highest Return on Investment
                             {/* Tabs Nav */}
                             <div className="tab-slider-nav">
                                 <ul className="tab-slider-tabs">
-                                    <li
+                                    {/* <li
                                         className="tab-slider-trigger active"
                                         onClick={(e) => this.openTabSection(e, 'monthly')}
                                     >
                                         Monthly
-                                    </li>
+                                    </li> */}
                                     {/* <li onClick={(e) => this.openTabSection(e, 'yearly')}> 
                                         Yearly
                                     </li> */}
@@ -54,54 +52,54 @@ towards achieving highest Return on Investment
                                         <div className="col-lg-4 col-md-6">
                                             <div className="pricing-table">
                                                 <div className="pricing-header">
-                                                Per Content Piece 
+                                                PRO BONO 
 
                                                 </div>
 
-                                                <div className="price">
+                                                {/* <div className="price">
                                                     <sup>$</sup>
                                                     199
                                                     <span>/ Monthly</span>
-                                                </div>
+                                                </div> */}
 
                                                 <ul className="pricing-features">
                                                     {/* <li><b>10 GB</b> Hosting</li> */}
-                                                    <li>LinkedIn or Twitter 1 Iteration Dashboard </li>
+                                                    <li>Convince our CXO with your project and get the guidance you need</li>
                                                     {/* <li><b>12 GB</b> Capacity</li> */}
                                                     {/* <li>Weekly Backups</li> */}
                                                     {/* <li><b>15 Domain</b> Names</li> */}
                                                     {/* <li>Support <b>24/7</b></li> */}
                                                 </ul>
 
-                                                <Link href="#">
-                                                    <a className="btn btn-primary">Purchase Now</a>
-                                                </Link>
+                                                
+                                                    <a target="_blank" href="http://app.cinfluencers.com/" className="btn btn-primary">Get Started</a>
+                                               
                                             </div>
                                         </div>
 
                                         <div className="col-lg-4 col-md-6">
                                             <div className="pricing-table">
                                                 <div className="pricing-header">
-                                                3 Content Pieces (25% Discount) </div>
+                                                PAY AS YOU GO</div>
 
-                                                <div className="price">
+                                                {/* <div className="price">
                                                     <sup>$</sup> 
                                                     399 
                                                     <span>/ Monthly</span>
-                                                </div>
+                                                </div> */}
 
                                                 <ul className="pricing-features">
                                                     {/* <li><b>10 GB</b> Hosting</li> */}
-                                                    <li>LinkedIn and/or Twitter Up to 5 Iterations Curation Support Dashboard </li>
+                                                    <li>With No upfront commitments of minimum number of hours, you can literally engage a CXO for even an hour.</li>
                                                     {/* <li><b>12 GB</b> Capacity</li> */}
                                                     {/* <li>Weekly Backups</li> */}
                                                     {/* <li><b>15 Domain</b> Names</li> */}
                                                     {/* <li>Support <b>24/7</b></li> */}
                                                 </ul>
 
-                                                <Link href="#">
-                                                    <a className="btn btn-primary">Purchase Now</a>
-                                                </Link>
+                                                
+                                                    <a target="_blank" href="http://app.cinfluencers.com/" className="btn btn-primary">Get Started</a>
+                                                
                                             </div>
                                         </div>
 
@@ -119,16 +117,16 @@ towards achieving highest Return on Investment
 
                                                 <ul className="pricing-features">
                                                     {/* <li><b>10 GB</b> Hosting</li> */}
-                                                    <li>Contact Us for a Custom Requirement </li>
+                                                    <li>Want to use our experts in multiple ways, reach out to us and we get back to you with a proposal.</li>
                                                     {/* <li><b>12 GB</b> Capacity</li>
                                                     <li>Weekly Backups</li>
                                                     <li><b>15 Domain</b> Names</li>
                                                     <li>Support <b>24/7</b></li> */}
                                                 </ul>
 
-                                                <Link href="#">
-                                                    <a className="btn btn-primary">Purchase Now</a>
-                                                </Link>
+                                               
+                                                    <a target="_blank" href="http://app.cinfluencers.com/" className="btn btn-primary">Get Started</a>
+                                               
                                             </div>
                                         </div>
                                     </div>

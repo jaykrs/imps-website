@@ -14,7 +14,7 @@ const images = [
     require("../../images/works/work6.jpg"),
 ];
 
-class OurPortfolio extends Component {
+class OurPortfolioSecond extends Component {
 
     state = {
         photoIndex: 0,
@@ -43,8 +43,8 @@ class OurPortfolio extends Component {
             <section id="portfolio" className="portfolio-area main-banner-port ptb-100 bg-image">
                 <div className="container">
                     <div className="section-title">
-                        <span>OUR THOUGHT LEADERS</span>
-                        <h2>CXOs in<b>Action</b></h2>
+                        <span>OUR BUSSINESS MODEL</span>
+                        <h2>Our Services in<b>Action</b></h2>
                         <p className="text-light">We cover a large number of industry segments to help you find the most relevant thought leader from our universe of Global, Regional & Local experts.</p>
                     </div>
 
@@ -207,4 +207,4 @@ class OurPortfolio extends Component {
     }
 }
 
-export default OurPortfolio;
+export default OurPortfolioSecond;
