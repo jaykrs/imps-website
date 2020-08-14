@@ -90,10 +90,15 @@ p:last-child {
   margin-bottom: 0;
 }
 
-img {
+img { 
+   max-width: 100%;
+}
+
+.logo {
   /* for logo size edit here */
    max-width: 30%;
 }
+
 
 .mt-30 {
   margin-top: 30px;
