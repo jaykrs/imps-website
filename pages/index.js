@@ -22,30 +22,30 @@ import Partner from '../components/Common/Partner';
 import Subscribe from '../components/Common/Subscribe';
 import Contact from '../components/Common/Contact';
 import Footer from '../components/Layouts/Footer';
+import OurPortfolioSecond from '../components/Common/OurPortfoli.second';
 
 class Index extends Component {
     render() {
         return (
             <React.Fragment>
-                <Navbar /> 
+                <Navbar />
                 <MainBannerOne />
                 <OurFeatures />
                 {/* <AboutUs /> */}
-                
                 {/* <OurServices /> */}
-                <WhoWeAre /> 
-                {/* <SkillsArea /> */}
-                {/* <WhyWeDifferent /> */}
                 <OurPortfolio />
-                <FunFacts /> 
-                {/* <Team />  */}
+                <WhoWeAre />
+                {/* <SkillsArea /> */}
+                {/* <WhyWeDifferent /> */}      
+                <Team />
+                <FunFacts />
                 {/* <OurStory />  */}
-                <Pricing /> 
+                <OurPortfolioSecond />
+                <Pricing />
                 {/* <OurTestimonials /> */}
                 {/* <WeAreBestCompany /> */}
                 {/* <Faq />  */}
                 {/* <BlogSlider />  */}
-                
                 {/* <Partner />  */}
                 {/* <Subscribe /> */}
                 <Contact />
