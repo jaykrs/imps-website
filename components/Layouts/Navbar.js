@@ -52,17 +52,17 @@ class Navbar extends Component {
     render() {
         const { collapsed } = this.state;
         const classOne = collapsed ? 'collapse navbar-collapse' : 'navbar-collapse collapse show';
-        const classTwo = collapsed ? 'navbar-toggler navbar-toggler-right collapsed' : 'navbar-toggler navbar-toggler-right';
+        const classTwo = collapsed ? 'navbar-toggler navbar-toggler-right collapsed  ml-auto' : 'navbar-toggler navbar-toggler-right ml-auto';
         return (
             <React.Fragment>
                 <nav id="navbar" className="navbar navbar-expand-lg navbar-light bg-light">
-                    <div className="container">
-                        <Link href="/">
+                    <div className="container d-flex pt-2">
+                        
                             <a className="navbar-brand">
                                 <img className="logo" src={require("../../images/logo.png")} alt="logo" />
                                 <img className="logo" src={require('../../images/logo2.png')} alt="logo" />
                             </a>
-                        </Link>
+                       
 
                         <button 
                             onClick={this.toggleNavbar}
@@ -73,12 +73,13 @@ class Navbar extends Component {
                             aria-controls="navbarSupportedContent" 
                             aria-expanded="false" 
                             aria-label="Toggle navigation"
+                            style={{marginTop: -40}}
                         >
                             <span className="navbar-toggler-icon"></span>
                         </button>
 
                         <div className={classOne} id="navbarSupportedContent">
-                            <ul className="navbar-nav ml-auto">
+                            <ul className="navbar-nav">
                                 <li className="nav-item">
                                     <AnchorLink 
                                         onClick={this.toggleNavbar} 
